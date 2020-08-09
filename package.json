@@ -1,0 +1,23 @@
+{
+  "name": "react-app",
+  "version": "0.0.1",
+  "description": "用于训练生成react脚手架库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamthen/react-app.git"
+  },
+  "keywords": [
+    "react",
+    "脚手架"
+  ],
+  "author": "Gary_bimubai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dreamthen/react-app/issues"
+  },
+  "homepage": "https://github.com/dreamthen/react-app#readme"
+}
